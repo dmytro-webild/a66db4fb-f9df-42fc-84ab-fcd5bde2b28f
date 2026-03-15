@@ -57,7 +57,7 @@ export default function LandingPage() {
           background={{ variant: "radial-gradient" }}
           carouselItems={[
             {
-              id: "carousel-1",              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-wearing-minimalist-shirt_23-2149317769.jpg",              imageAlt: "Premium fashion collection showcase"
+              id: "carousel-1",              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-wearing-minimalist-shirt_23-2149317769.jpg?_wi=1",              imageAlt: "Premium fashion collection showcase"
             },
             {
               id: "carousel-2",              imageSrc: "http://img.b2bpic.net/free-photo/still-life-spring-wardrobe-switch_23-2150478999.jpg",              imageAlt: "Stylish clothing lineup display"
@@ -248,7 +248,7 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/beautiful-woman-wearing-minimalist-shirt_23-2149317769.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/beautiful-woman-wearing-minimalist-shirt_23-2149317769.jpg?_wi=2"
           imageAlt="StyleCraft fashion collection"
           logoText="StyleCraft"
           copyrightText="© 2025 StyleCraft. All rights reserved."
